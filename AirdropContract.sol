@@ -3,6 +3,6 @@ pragma solidity ^0.8.9;
 
 contract AirdropContract {
     function whatPurpose() public pure returns (string memory) {
-        return 'Simple smart contract for Airdrop Hunters by @tomkowalczyk';
+        return 'Smart contract for Airdrop Scroll Deploy by @olotower';
     }
 }
